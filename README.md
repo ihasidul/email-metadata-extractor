@@ -18,6 +18,9 @@ So. to add extract new emails just add the email(.eml file) to the folder.
 ## Installation
 
 - Clone the repository.
+```
+git clone https://github.com/ihasidul/email-metadata-extractor
+```
 - Run the script:
 ```
 python email_parser.py
